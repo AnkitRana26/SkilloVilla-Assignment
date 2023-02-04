@@ -1,6 +1,6 @@
 # SkilloVilla-Assignment
 
-## Commands To Run app
+## Commands To Run app (In Command)
 
 ```
     npm install
