@@ -1,0 +1,25 @@
+#joinDiscussionContainer > textarea{
+    width: 100%;
+    resize: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    padding: 10px;
+    height: 45px;
+    font-weight: 400;
+   border-radius: 3px;
+}
+
+#joinDiscussionContainer > img{
+    border-radius: 2px;
+    display: block;
+    box-shadow: 0 0 2px grey;
+}
+
+#joinDiscussionContainer{
+    display: grid;
+    grid-template-columns: 8% 92%;
+    gap: 15px;
+    align-items: center;
+}

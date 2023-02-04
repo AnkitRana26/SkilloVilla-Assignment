@@ -1,0 +1,62 @@
+.commentContainer {
+    display: grid;
+    grid-template-columns: 8% 88%;
+    gap: 15px;
+    margin-top: 4%;
+    justify-content: center;
+}
+
+.commentBody {
+    display: grid;
+}
+
+.commentFooter {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+
+}
+
+.commentBodyHead {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin-bottom: 1px;
+}
+
+.commentName{
+    color: #6EC8FF;
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+
+.commentTime{
+    font-size: 0.8rem;
+}
+
+.commentUserImage{
+    box-shadow: 0 0 2px grey;
+    border-radius: 2px;
+}
+.commentContent{
+    margin-bottom: 1px;
+}
+
+.replyContainer{
+    width: 88%;
+    display: grid;
+    position: relative;
+    float: right;
+}
+
+.mainContainer{
+    display: grid;
+    justify-content: center;
+}
+
+.singleCommentContainer{
+    position: relative;
+    float: right;
+    width: 100%;
+}
+

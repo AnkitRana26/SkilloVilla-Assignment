@@ -1,0 +1,34 @@
+
+#editContainer{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0px;
+    backdrop-filter: blur(10px);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#textContainer{
+    display: grid;
+    
+}
+
+#textContainer>textarea{
+    resize: none;
+    width: 800px;
+    height: 50px;
+    outline: none;
+    padding: 10px;
+    font-size: 1.1rem;
+}
+
+#textContainer >button{
+    width: 30%;
+    display: block;
+    margin: auto;
+    margin-top: 2%;
+    padding: 5px;
+    outline: none;
+}

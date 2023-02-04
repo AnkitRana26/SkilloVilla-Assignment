@@ -1,0 +1,17 @@
+#discussionContainer{
+    width: 60%;
+    margin: auto;
+    margin-top: 2%;
+}
+
+
+.selectTag{
+    padding: 5px;
+    outline: none;
+    margin-top: 2%;
+}
+
+.selectTagContainer{
+    display: flex;
+    gap: 20px;
+}

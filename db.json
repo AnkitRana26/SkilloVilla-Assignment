@@ -1,0 +1,201 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userName": "Clueless-kun",
+      "photo": "http://s2.narvii.com/image/fk56csff6dhdvm4fadpfapdtwggxy33m_00.jpg"
+    },
+    {
+      "id": 2,
+      "userName": "Nebuchadnezzer(AFTP)",
+      "photo": "https://downloadwap.com/thumbs4/ringtones/covers/s/onepiece.jpg"
+    },
+    {
+      "id": 3,
+      "userName": "Tony Hue",
+      "photo": "https://static.myfigurecollection.net/upload/entries/48280.jpg?rev=1644977736"
+    },
+    {
+      "userName": "Ankit Rana",
+      "photo": "https://avatars.githubusercontent.com/u/109352490?v=4",
+      "id": 4
+    },
+    {
+      "userName": "Kartik Gupta",
+      "photo": "https://avatars.githubusercontent.com/u/109219148?v=4",
+      "id": 5
+    },
+    {
+      "userName": "Vikram",
+      "photo": "https://avatars.githubusercontent.com/u/111147977?v=4",
+      "id": 6
+    },
+    {
+      "userName": "Pawan",
+      "photo": "",
+      "id": 7
+    },
+    {
+      "userName": "Raghav",
+      "photo": "",
+      "id": 8
+    },
+    {
+      "userName": "Ankit Rana``",
+      "photo": "",
+      "id": 9
+    },
+    {
+      "userName": "Sachin",
+      "photo": "",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "Dude thank you so much for making this, now if only it was possible to somehow get this to stay as the top discussion so that new people don't make these mistakes",
+      "userId": 1,
+      "time": 7,
+      "likes": 3
+    },
+    {
+      "id": 2,
+      "content": "If I could recommend this discussion more than once,I would.",
+      "userId": 3,
+      "time": 7,
+      "likes": 6
+    },
+    {
+      "content": "Hello WhatsUp Guys Is That Okay Or Not\n",
+      "time": 0,
+      "userId": 4,
+      "id": 3,
+      "likes": 1
+    },
+    {
+      "content": "Hello What's Up Guys, Are You Guys Fine",
+      "time": 0,
+      "userId": 4,
+      "likes": 2,
+      "id": 4
+    },
+    {
+      "content": "Hello Chat How Are You\n",
+      "time": 0,
+      "userId": 5,
+      "likes": 2,
+      "id": 5
+    },
+    {
+      "content": "Hello\n",
+      "time": 0,
+      "userId": 7,
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "content": "Hello Guys \n",
+      "time": 0,
+      "userId": 8,
+      "likes": 9,
+      "id": 7
+    },
+    {
+      "content": "Hello Swap, How Are you\n",
+      "time": 0,
+      "userId": 4,
+      "likes": 1,
+      "id": 8
+    },
+    {
+      "content": "Is That Ok",
+      "time": 0,
+      "userId": 4,
+      "likes": 0,
+      "id": 9
+    }
+  ],
+  "replies": [
+    {
+      "id": 1,
+      "content": "Working on it. It will eventually be linkable on the side of all discussions.",
+      "commentId": 1,
+      "likes": 4,
+      "time": 7,
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "content": "It should be up now :)",
+      "commentId": 1,
+      "likes": 3,
+      "time": 6,
+      "userId": 2
+    },
+    {
+      "content": "Hello",
+      "time": 0,
+      "likes": 0,
+      "userId": 4,
+      "commentId": 1,
+      "id": 8
+    },
+    {
+      "content": "Hello Guys",
+      "time": 0,
+      "likes": 0,
+      "userId": 4,
+      "replyId": 1,
+      "id": 9
+    },
+    {
+      "content": "Is That Okay",
+      "time": 0,
+      "likes": 0,
+      "userId": 4,
+      "commentId": 1,
+      "id": 10
+    },
+    {
+      "content": "Hello Ankit",
+      "time": 0,
+      "likes": 0,
+      "userId": 10,
+      "replyId": 8,
+      "id": 11
+    },
+    {
+      "content": "Hello Sachin",
+      "time": 0,
+      "likes": 0,
+      "userId": 10,
+      "replyId": 8,
+      "id": 12
+    },
+    {
+      "content": "Hello Raghav",
+      "time": 0,
+      "likes": 0,
+      "userId": 10,
+      "replyId": 8,
+      "id": 13
+    },
+    {
+      "content": "Hello Raghav, wha's up",
+      "time": 0,
+      "likes": 0,
+      "userId": 10,
+      "commentId": 5,
+      "id": 14
+    },
+    {
+      "content": "Is That Okay",
+      "time": 0,
+      "likes": 0,
+      "userId": 10,
+      "commentId": 7,
+      "id": 15
+    }
+  ]
+}
